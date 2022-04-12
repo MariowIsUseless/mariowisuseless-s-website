@@ -1,4 +1,6 @@
-# Welcome to my Website!
+# MariowIsUseless S' Website
+
+### Welcome :D
 
 Hello! This site is still in development, so you can't expect much until it's fully completed.
 
