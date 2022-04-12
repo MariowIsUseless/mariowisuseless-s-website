@@ -1,4 +1,4 @@
-## Welcome to my Website!
+# Welcome to my Website!
 
 Hello! This site is still in development, so you can't expect much until it's fully completed.
 
@@ -12,3 +12,5 @@ There is no more, sadly, this link will guide you through my projects
 
 
 _THIS PROJECT IS STILL IN DEVELOPMENT, MADE BY MARIOWISUSELESS_
+
+Visual broken? [Send a report](mailto:mariow.inboxes@gmail.com) 
